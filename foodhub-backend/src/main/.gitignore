@@ -1,0 +1,14 @@
+# React dependencies & build
+foodhub-frontend/node_modules/
+foodhub-frontend/build/
+foodhub-frontend/.env
+
+# Spring Boot target & binaries
+foodhub-backend/target/
+foodhub-backend/*.class
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+*.log
